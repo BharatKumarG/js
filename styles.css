@@ -1,0 +1,9 @@
+h1{
+    color:rgb(blue);
+}
+h2{
+    color:rgb(red, green, blue);
+}
+h1,h2{
+    text-align:center;
+}

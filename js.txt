@@ -1,0 +1,8 @@
+Inline js 
+Internal JS- Within Body
+External JS
+
+3 Types of texet or document writing that is 
+1. document.write()
+2. window.alert()
+3. document.getElementById("Demo").innerhtml("This is Content") 
